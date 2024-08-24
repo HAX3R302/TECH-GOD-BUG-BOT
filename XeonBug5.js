@@ -4,7 +4,7 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +923253444558
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
@@ -205,7 +205,7 @@ const subscribe_TechGod = {
 },
 message: {
 "listResponseMessage": {
-title: `TechGod's ur father`
+title: `Saleh ur father`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -220,10 +220,10 @@ caption: `${dgxeon + xeontext1}`,
 
 async function loading () {
 var xeonlod = [
-"《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
-"《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Tech-God▒▒▒》50%",
-"《 ██████████▒▒》80%",
+"《 █▒▒▒▒》10%",
+"《 ████▒▒▒▒》30%",
+"《 ██████▒▒▒▒》50%",
+"《 █████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
 ]
@@ -650,9 +650,9 @@ senddocu(buffer)
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: 'Broadcast By Tech God',
+                                title: 'Broadcast By @Itxsalaih',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                                thumbnailUrl: 'https://i.ibb.co/qF53V71/thumb.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -960,7 +960,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/thumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -974,7 +974,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the Tech God wa.me/917466008456 😉`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium?  wa.me/923253444558 😉`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -982,7 +982,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/thumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1002,7 +1002,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `youtube Tech God`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/Y7srJqs/Thumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1016,14 +1016,14 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'repo':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `repo https://github.com/techgod143/TECH-GOD-BUG-BOT
-		    youtube www.youtube.com/@techgod143`,
+                    text: `
+		    youtube:  www.youtube.com/@Muhammadsalehzubair`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube www.youtube.com/@techgod143`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            body: `SCRIPT OF ${botname} Follow On Tiktok @Itxsalaih`,
+                            thumbnailUrl: 'https://i.ibb.co/Y7srJqs/Thumb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
